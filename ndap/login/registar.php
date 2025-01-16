@@ -107,7 +107,7 @@ if (isset($_POST['nome'], $_POST['email'], $_POST['password'], $_POST['confirma_
                 <?php endif; ?>             
             </form>
             <div class="social-login">
-                <h3>Já tem uma conta?</h3>
+                <h4>Já tem uma conta?</h4>
                 <a href="/site_ndap/ndap/login/index.php">
                     <h6>Login Aqui</h6>
                 </a>
